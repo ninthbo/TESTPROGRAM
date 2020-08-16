@@ -1,2 +1,2 @@
 plugins {
-    id 'org.jetbra
+    id 'org.jetbrains.kotl
