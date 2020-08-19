@@ -1,2 +1,2 @@
 plugins {
-    id 'org.jetbrains.kotl
+    id 'org.jetbrains.kotlin.jvm' 
