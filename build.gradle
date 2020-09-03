@@ -3,4 +3,4 @@ plugins {
 }
 
 group 'ru.netology'
-vers
+version '1.0
