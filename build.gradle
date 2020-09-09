@@ -5,4 +5,5 @@ plugins {
 group 'ru.netology'
 version '1.0-SNAPSHOT'
 
-repos
+repositories {
+ 
