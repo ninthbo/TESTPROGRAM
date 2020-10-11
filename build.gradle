@@ -10,4 +10,4 @@ repositories {
 }
 
 dependencies {
-    implementation "org.jetbrains.kotl
+    implementation "org.jetbrains.kotlin:kotlin
