@@ -18,4 +18,5 @@
 
 ##############################################################################
 ##
-##  Gradle start up script fo
+##  Gradle start up script for UN*X
+##
