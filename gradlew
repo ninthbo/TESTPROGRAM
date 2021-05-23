@@ -31,4 +31,5 @@ while [ -h "$PRG" ] ; do
     link=`expr "$ls" : '.*-> \(.*\)$'`
     if expr "$link" : '/.*' > /dev/null; then
         PRG="$link"
-    
+    else
+  
