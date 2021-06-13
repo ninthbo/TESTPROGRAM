@@ -36,4 +36,4 @@ while [ -h "$PRG" ] ; do
     fi
 done
 SAVED="`pwd`"
-cd "`dirname \"$PRG\"`/" >/de
+cd "`dirname \"$PRG\"`/" >/dev/null
