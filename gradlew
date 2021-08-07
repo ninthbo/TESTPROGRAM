@@ -57,4 +57,5 @@ die () {
     echo
     echo "$*"
     echo
-   
+    exit 1
+}
