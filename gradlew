@@ -60,4 +60,4 @@ die () {
     exit 1
 }
 
-# OS specific suppo
+# OS specific support (m
