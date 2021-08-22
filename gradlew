@@ -64,4 +64,5 @@ die () {
 cygwin=false
 msys=false
 darwin=false
-nonstop=
+nonstop=false
+c
