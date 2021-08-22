@@ -65,4 +65,4 @@ cygwin=false
 msys=false
 darwin=false
 nonstop=false
-c
+case "`un
