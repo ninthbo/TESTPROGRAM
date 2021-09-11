@@ -76,4 +76,5 @@ case "`uname`" in
     msys=true
     ;;
   NONSTOP* )
-    nonstop=t
+    nonstop=true
+    
