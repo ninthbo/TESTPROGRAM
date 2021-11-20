@@ -89,4 +89,6 @@ if [ -n "$JAVA_HOME" ] ; then
         # IBM's JDK on AIX uses strange locations for the executables
         JAVACMD="$JAVA_HOME/jre/sh/java"
     else
-        JAVACMD="$JAVA_HOME/bin/jav
+        JAVACMD="$JAVA_HOME/bin/java"
+    fi
+  
