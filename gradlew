@@ -99,3 +99,4 @@ location of your Java installation."
     fi
 else
     JAVACMD="java"
+    whi
