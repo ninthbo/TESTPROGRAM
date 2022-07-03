@@ -132,3 +132,5 @@ if [ "$cygwin" = "true" -o "$msys" = "true" ] ; then
     CLASSPATH=`cygpath --path --mixed "$CLASSPATH"`
 
     JAVACMD=`cygpath --unix "$JAVACMD"`
+
+    # We 
