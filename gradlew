@@ -173,4 +173,5 @@ if [ "$cygwin" = "true" -o "$msys" = "true" ] ; then
 fi
 
 # Escape application args
-save () 
+save () {
+    fo
