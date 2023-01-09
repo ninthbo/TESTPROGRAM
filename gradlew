@@ -179,4 +179,4 @@ save () {
 }
 APP_ARGS=`save "$@"`
 
-# Collect all argu
+# Collect all arguments fo
